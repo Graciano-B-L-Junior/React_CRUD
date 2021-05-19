@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Artur oliveiro",
+      "email": "aolivera@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "cabeça de xelo",
+      "email": "teste@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Teste",
+      "email": "@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Graciano Junior",
+      "email": "graciano@gmail.com",
+      "id": 9
+    }
+  ]
+}
